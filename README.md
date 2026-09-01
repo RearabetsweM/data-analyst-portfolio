@@ -23,5 +23,5 @@ Python-based statistical analysis comparing two marketing variants.
 SQL scripts for cleaning and reporting on messy datasets.
 
 ## Contact
-LinkedIn: (add your link)
-Email: (add your email)
+LinkedIn:www.linkedin.com/in/rearabetswe-mabunda-a4b1842a9
+Email: njmabunda3@gmail.com
