@@ -1,0 +1,22 @@
+# Sales & Customer Insights Dashboard
+
+## Overview
+A Power BI dashboard analyzing customer transactions to uncover sales trends, product performance, and customer behavior.
+
+## Tools Used
+- Excel
+- SQL Server
+- Power BI
+
+## Key KPIs
+- Total Sales
+- Average Order Value
+- Repeat Purchase Rate
+- Sales by Region
+- Top Products
+
+## Deliverables
+- Cleaned dataset (Excel)
+- SQL cleaning scripts
+- Power BI dashboard (.pbix)
+- Insight summary
